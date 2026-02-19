@@ -5,7 +5,7 @@
 # About Me:
 Hello, I'm a newbie in programming.  
 I'm studying and sharing my journey here.  
-I hope you find my workspace peaceful.
+I hope you find my workspace interesting.
 
 ---
 
