@@ -15,5 +15,6 @@ I hope you find my workspace peaceful.
 ---
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaQ&theme=tokyonight&hide_border=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaQ&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PETEVAYOGURT&theme=tokyonight&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PETEVAYOGURT&theme=tokyonight&hide_border=true&layout=compact)
+
