@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/hOMe_h7ps8kAAAAC/pjsk-pjsk-anime.gif" width="600">
+  <img src="https://media1.tenor.com/m/B0bWPj-dy-oAAAAd/silverwolf-honkai-star-rail.gif" width="600">
 </div>
 
 # About Me:
